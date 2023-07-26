@@ -6,4 +6,4 @@ Jinja2==2.11.3
 MarkupSafe==1.1.1
 Werkzeug==1.0.1
 numpy==1.24.2
-pickle==3.9.5
+cloudpickle
